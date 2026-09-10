@@ -77,11 +77,10 @@ Proyek ini dibuat sebagai bagian dari tugas **Fundamental Software Engineering**
 
 Sebagai proyek pertama dalam perjalanan belajar pemrograman, aplikasi ini sengaja dibuat sederhana agar fokus pada pemahaman dasar: bagaimana HTML membentuk struktur halaman, CSS mempercantik tampilan, dan JavaScript menghidupkan interaksi lewat perhitungan matematis. Meski sederhana, proyek ini jadi tonggak awal yang berarti dalam belajar membangun sesuatu dari nol.
 
-## 👤 Author
-
-**Dzikri Najauza**
-GitHub: [@dzikrinajauza](https://github.com/dzikrinajauza)
-
 ## 📄 Lisensi
 
-Proyek ini dibuat untuk keperluan pembelajaran/tugas dan bebas digunakan sebagai referensi.
+Proyek ini dirilis di bawah lisensi MIT — bebas digunakan untuk keperluan riset dan pembelajaran dengan mencantumkan atribusi.
+
+## 🙋 Author
+
+[Dzikrina Jauza Hasna] Data Analyst | E-Commerce & Customer Analytics 📧 [dzikrinajauza@gmail.com] · 🔗 https://www.linkedin.com/in/dzikrinajauza/ ·
